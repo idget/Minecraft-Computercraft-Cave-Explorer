@@ -1,7 +1,7 @@
 # Minecraft-Computercraft-Cave-Explorer
 Minecraft Computercraft mod automated cave explorer for a turtle. Runs through a cave an lights it up with torches.
 
-DUngeon Explorer
+Dungeon Explorer
 
 Start turtle on the far right of a dungeon corridor. moves forward unless it sees that the block to the right of it is empty if it is t will turn right. 
 if the turtle runs into a block it will turn left.
